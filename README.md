@@ -1,6 +1,6 @@
-## Ryan Knowles
+## Hello I'm Ryan
 
-Computer Science graduate (BSc Hons, 2:1) based in Newcastle upon Tyne.
+A Computer Science graduate (BSc Hons, 2:1) based in Newcastle upon Tyne.
 Interested in data analysis regardless of whether it's in the real world or the virtual one. 
 
 **Currently Building**
